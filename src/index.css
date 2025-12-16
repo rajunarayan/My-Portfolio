@@ -1,0 +1,90 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* --- fonts --- */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Poppins:wght@700;800&family=Gloria+Hallelujah&display=swap');
+
+html {
+  scroll-behavior: smooth;
+}
+
+:root {
+  --dot: #e5e7eb;
+  /* dotted canvas color */
+  --ink: #0f172a;
+  /* near-black ink */
+}
+
+/* dotted paper */
+.bg-dots {
+  background-image: radial-gradient(var(--dot) 1px, transparent 1px);
+  background-size: 14px 14px;
+}
+
+/* sketchy label (like the pink/blue tags in figma) */
+.sketch {
+  font-family: 'Gloria Hallelujah', cursive;
+  background: #ffd6e7;
+  /* pink sticky label */
+  padding: .15rem .5rem;
+  border-radius: 6px;
+  display: inline-block;
+  transform: rotate(-2deg);
+  box-shadow: 0 2px 0 #1113;
+}
+
+/* sticky-note base */
+.sticker {
+  border: 2px solid #0f172a12;
+  border-radius: 16px;
+  box-shadow: 6px 8px 0 #1112;
+}
+
+/* colors like the figma sticky notes */
+.sticker-yellow {
+  background: #fde68a;
+}
+
+.sticker-blue {
+  background: #93c5fd;
+}
+
+.sticker-pink {
+  background: #f9a8d4;
+}
+
+/* little corner tag like “Figma / Webflow / No-Code” */
+.note-tag {
+  font-family: 'Gloria Hallelujah', cursive;
+  background: #fff;
+  border: 2px solid #0f172a12;
+  border-radius: 8px;
+  padding: .1rem .4rem;
+  box-shadow: 2px 3px 0 #1112;
+}
+
+/* project card shadow/outline */
+.card {
+  @apply bg-white rounded-2xl border border-gray-200;
+  box-shadow: 6px 8px 0 #1112;
+}
+
+/* minimalist round social buttons (footer) */
+.social-circle {
+  @apply w-11 h-11 rounded-full flex items-center justify-center border border-gray-300;
+  box-shadow: 0 2px 0 #1112;
+}
+
+/* headings */
+.h1 {
+  font-family: 'Poppins', sans-serif;
+}
+
+.h2 {
+  font-family: 'Poppins', sans-serif;
+}
+
+nav a {
+  font-family: 'Poppins', sans-serif;
+}
