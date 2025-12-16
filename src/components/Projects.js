@@ -1,6 +1,3 @@
-import React from "react";
-import { FiMail } from "react-icons/fi"; // minimalistic email icon
-
 const projects = [
   {
     title: "Portfolio Website",
@@ -15,16 +12,16 @@ const projects = [
     link: "#",
   },
   {
+    title: "Task Pilot",
+    tag: "MERN Stack",
+    img: "/projects/taskpilot.png ",
+    link: "https://github.com/rajunarayan/taskpilot-mern",
+  },
+  {
     title: "Netflix Frontend Clone",
     tag: "HTML + CSS",
     img: "/projects/netflix.jpg",
     link: "https://charlieboy5360.github.io/Netflix/",
-  },
-  {
-    title: "Task Pilot",
-    tag: "MERN Stack",
-    img: "/projects/smsreminder.jpg ",
-    link: "https://github.com/rajunarayan/taskpilot-mern",
   },
 ];
 

@@ -17,10 +17,10 @@ const items = [
     },
     {
         n: 3,
-        role: "Automation",
-        where: "Exam Duty Mail Reminder",
+        role: "Full Stack",
+        where: "TaskPilot",
         when: "2025",
-        desc: "Apps Script + Sheets; Automated mail notifications",
+        desc: "MERN STACK;Task Manager",
     },
 ];
 

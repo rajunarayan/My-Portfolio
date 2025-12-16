@@ -8,7 +8,7 @@ export default function Footer() {
                 <span className="text-sm text-slate-600">© {new Date().getFullYear()} M L N Raju</span>
                 <div className="flex gap-3">
                     <a className="social-circle hover:bg-slate-900 hover:text-white transition" href="https://www.linkedin.com/in/mln-raju/" target="_blank" rel="noreferrer"><FaLinkedin /></a>
-                    <a className="social-circle hover:bg-slate-900 hover:text-white transition" href="https://github.com/yourusername" target="_blank" rel="noreferrer"><FaGithub /></a>
+                    <a className="social-circle hover:bg-slate-900 hover:text-white transition" href="https://github.com/rajunarayan" target="_blank" rel="noreferrer"><FaGithub /></a>
                     <a className="social-circle hover:bg-slate-900 hover:text-white transition" href="mailto:rajunarayan004@gmail.com"><FaEnvelope /></a>
                 </div>
             </div>
