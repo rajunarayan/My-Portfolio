@@ -20,7 +20,7 @@ const projects = [
   {
     title: "PreMerge Risk Guard",
     tag: "Python + API",
-    img: "/projects/netflix.jpg",
+    img: "/projects/pragent.jpg",
     link: "https://github.com/rajunarayan/change-risk-agent",
   },
 ];
