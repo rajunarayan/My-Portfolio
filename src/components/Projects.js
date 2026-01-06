@@ -18,10 +18,10 @@ const projects = [
     link: "https://github.com/rajunarayan/taskpilot-mern",
   },
   {
-    title: "Netflix Frontend Clone",
-    tag: "HTML + CSS",
+    title: "PreMerge Risk Guard",
+    tag: "Python + API",
     img: "/projects/netflix.jpg",
-    link: "https://charlieboy5360.github.io/Netflix/",
+    link: "https://github.com/rajunarayan/change-risk-agent",
   },
 ];
 

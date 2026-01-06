@@ -3,10 +3,10 @@ import React from "react";
 const items = [
     {
         n: 1,
-        role: "Frontend (Projects)",
-        where: "Personal / Academic",
-        when: "2025",
-        desc: "Built responsive UIs with React & Tailwind;Portfolio",
+        role: "AI (Projects)",
+        where: "PreMerge Risk Guard",
+        when: "2026",
+        desc: "Built an AI Agent",
     },
     {
         n: 2,
