@@ -1,7 +1,7 @@
 const projects = [
   {
     title: "Foodly AI Powered Recipe Generator",
-    tag: "React + Typescript",
+    tag: "React + Typescript + Python (MERN)",
     img: "/projects/foodly.jpg",
     link: "#",
   },

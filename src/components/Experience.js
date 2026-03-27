@@ -18,9 +18,9 @@ const items = [
     {
         n: 3,
         role: "Full Stack",
-        where: "TaskPilot",
+        where: "TaskPilot,Foodly",
         when: "2025",
-        desc: "MERN STACK;Task Manager",
+        desc: "MERN STACK;Task Manager,Foodly",
     },
 ];
 
