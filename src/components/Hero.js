@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import { Typewriter } from "react-simple-typewriter";
-import { Send } from "lucide-react";
 
 const HIGHLIGHT = "rgb(15, 23, 42)";
 
