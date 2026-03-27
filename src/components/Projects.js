@@ -1,8 +1,8 @@
 const projects = [
   {
-    title: "Portfolio Website",
-    tag: "React + Tailwind",
-    img: "/projects/portfolio.jpg",
+    title: "Foodly AI Powered Recipe Generator",
+    tag: "React + Typescript",
+    img: "/projects/foodly.jpg",
     link: "#",
   },
   {
