@@ -12,7 +12,7 @@ const projects = [
     link: "#",
   },
   {
-    title: "Task Pilot",
+    title: "Task Flow",
     tag: "MERN Stack",
     img: "/projects/taskpilot.png ",
     link: "https://github.com/rajunarayan/taskpilot-mern",
