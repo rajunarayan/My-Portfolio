@@ -3,7 +3,7 @@ const projects = [
     title: "Foodly AI Powered Recipe Generator",
     tag: "React + Typescript + Python (MERN)",
     img: "/projects/foodly.jpg",
-    link: "#",
+    link: "https://github.com/Springboard-Internship-2025/Intell-Recipe-Generator-Personalized-Meal-Suggestions-Based-on-Available-Ingre_Feb_Batch-8_2026",
   },
   {
     title: "Student Management System",
